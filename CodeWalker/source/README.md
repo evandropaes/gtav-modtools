@@ -3,7 +3,7 @@
     This program is for viewing the contents of GTAV RPF archives.
 </div>
 
-## Requirements:
+## Requirements: VANIA
 - PC version of GTA:V;
 - 4GB RAM (8+ recommended);
 - Windows 7 and above, x64 processor;
